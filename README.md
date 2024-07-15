@@ -7,7 +7,6 @@ Business contracts are complex legal documents that require thorough review and 
 - **Automated Contract Parsing and Structuring**
 - **Clause Classification using Machine Learning**
 - **Template Deviation Detection and Highlighting**
-- **Named Entity Recognition (NER) for Key Contract Details**
 - **Summary Generation for Quick Contract Overview**
 - **User-friendly Interface for Contract Upload and Result Display**
 
@@ -41,6 +40,4 @@ Business contracts are complex legal documents that require thorough review and 
 - **Machine Learning**: Python, scikit-learn, TensorFlow, PyTorch
 - **NLP**: spaCy, NLTK
 - **PDF Processing**: PyPDF2, pdfminer
-- **Database**: MongoDB, MySQL
 - **Containerization**: Docker
-- **Performance Optimization**: Intel oneAPI, Intel vTune Profiler
